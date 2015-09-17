@@ -1,4 +1,9 @@
-# githubを使用してみよう。
+---
+layout: page
+title: githubを使用してみよう。
+tagline: Supporting tagline
+---
+{% include JB/setup %}
 
 ## 目的
 rails templateファイルをgithubに登録して使って見たい。テンプレートを共有したい。
